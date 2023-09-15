@@ -1,3 +1,5 @@
+![Preview](./preview.png)
+
 # upload.ia
 
 [![wakatime](https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/8d3f16ab-f926-4146-bd3d-0a3d998cae15.svg)](https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/8d3f16ab-f926-4146-bd3d-0a3d998cae15)
@@ -10,7 +12,7 @@ Este repositório foi criado para o frontend e o backend do projeto da NLW IA da
 
 ## ✅ Objetivo
 
-Aplicação que possibilita realizar upload de videos e por meio de IA, criar automaticamente títulos chamativos e descrições com um boa indexação.
+Aplicação que possibilita realizar upload de videos e por meio de IA, criar automaticamente títulos chamativos, descrições e resumos com um boa indexação.
 
 ## 💻 Tecnologias e Ferramentas
 
